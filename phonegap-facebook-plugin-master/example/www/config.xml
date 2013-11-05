@@ -9,7 +9,7 @@
     <name>FBLogin</name>
 
     <description>
-       FBLogin Description: This should log into app through the facebook authentication flow.
+       FBLogin Description: This should log into the app through the facebook authentication flow.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
