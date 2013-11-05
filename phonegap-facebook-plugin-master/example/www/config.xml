@@ -9,7 +9,7 @@
     <name>FBLogin</name>
 
     <description>
-       FBLogin
+       FBLogin Description: This should log into app through the facebook authentication flow.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
@@ -56,7 +56,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="img/facebook_icon_small.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="img/facebook_icon_large.png"   gap:platform="android"    gap:density="mdpi" />
     <!--
     <icon src="res/icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
