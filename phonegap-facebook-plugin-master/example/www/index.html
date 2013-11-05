@@ -327,15 +327,18 @@
   
   
       // Initialize the Facebook SDK
+      alert(1)
       document.addEventListener('deviceready', function() {
-        
+          alert(2)
+         
           FB.init({
               appId:'436820716429579',
               nativeInterface: CDV.FB,
               useCachedDialogs: false
           });
           
-          alert("1")
+          alert(3)
+         
       
           FB.getLoginStatus(handleStatusChange);
       
