@@ -6,7 +6,7 @@
         id        = "com.phonegap.phonegapFacebookLoginP"
         version   = "1.0.0">
 
-    <name>Bounce</name>
+    <name>FBLogin</name>
 
     <description>
        FBLogin
