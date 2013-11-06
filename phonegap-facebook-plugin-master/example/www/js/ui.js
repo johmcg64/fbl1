@@ -66,7 +66,7 @@ function setAction(msg, hideBackground) {
   
   document.getElementById('msg').innerHTML = msg;
   
-  window.scrollTo(0, 1);
+  //window.scrollTo(0, 1);
 }
 
 //Clears the modal dialog
